@@ -10,7 +10,7 @@ html,body {
 }
 header{
     background-color: rgb(10, 8, 10);
-    width: 10000px;
+    width: 100%;
     padding: 1px;
     color: white;
 }
@@ -50,7 +50,7 @@ p{
     font: bold 24px/34px Helvetica, Sans-Serif;
 }
 .img{
-    width:2000px;
+    width:100%;
    height: 750px;
 
 }
